@@ -1,0 +1,9 @@
+pyTelegramBotAPI
+colorama
+pyowm
+bs4
+requests
+COVID19Py
+youtube_dl
+ffmpeg
+instalooter
